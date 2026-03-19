@@ -11,3 +11,6 @@ target/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Hide database credentials
+src/main/java/com/student/DBConnection.java
